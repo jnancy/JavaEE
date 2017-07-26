@@ -1,15 +1,15 @@
 # JavaEE
 
-###Resources
+### Resources
 ---
-####Books:
+#### Books:
 - [Data Structures and Algorithms in Java](http://rineshpk.weebly.com/uploads/1/8/2/0/1820991/data_structures_and_algorithms_in_javatqw_darksiderg.pdf)
 - [J2EE Complete Reference](https://drive.google.com/file/d/0B420YGPB6ALfMjhlNGZlODMtMzFmYi00NGMyLTlmMzEtOTExMTRkNmUzMzM2/view?ddrp=1&hl=en#)
 
-####Videos:
+#### Videos:
 - [Java Brains (youtube channel)](https://www.youtube.com/user/koushks)
 
-####Websites:
+#### Websites:
 - [Oracle: Java EE Overview](http://www.oracle.com/technetwork/java/javaee/overview/index.html)
 - [Java Tutorials](http://www.tutorialspoint.com/java_technology_tutorials.htm)
 - [J2EE training](http://www.coreservlets.com/)
