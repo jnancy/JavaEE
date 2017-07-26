@@ -1,7 +1,6 @@
 # JavaEE
 
 ### Resources
----
 #### Books:
 - [Data Structures and Algorithms in Java](http://rineshpk.weebly.com/uploads/1/8/2/0/1820991/data_structures_and_algorithms_in_javatqw_darksiderg.pdf)
 - [J2EE Complete Reference](https://drive.google.com/file/d/0B420YGPB6ALfMjhlNGZlODMtMzFmYi00NGMyLTlmMzEtOTExMTRkNmUzMzM2/view?ddrp=1&hl=en#)
