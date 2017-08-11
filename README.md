@@ -9,8 +9,8 @@
 #### :globe_with_meridians: Websites:
 - [Oracle: Java EE Overview](http://www.oracle.com/technetwork/java/javaee/overview/index.html)
 - [Java Tutorials](http://www.tutorialspoint.com/java_technology_tutorials.htm)
-- [J2EE training](http://www.coreservlets.com/)
-- [J2EE tutorial](http://j2eetutorials.50webs.com/)
+- [J2EE Training](http://www.coreservlets.com/)
+- [J2EE Tutorial](http://j2eetutorials.50webs.com/)
 
 #### :tv: Videos:
 - [Java Brains (youtube channel)](https://www.youtube.com/user/koushks)
